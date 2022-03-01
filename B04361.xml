@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the great victory obtained by the King of the Abissines, called Prester John, against the Turks. In taking the flourishing city of Habalee, and destroying 10,000 Ottomons [sic]. As also, a coppy of a letter from on board of his Majesties ship the Pearl, (riding then at Lisbon) from a gentleman to his brother in London, giving an account of several remarkable passages and rencounters against the Sally men.</title>
+            <author>Miles, John, fl. 1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04361</idno>
+            <idno type="STC">Wing M2048</idno>
+            <idno type="STC">ESTC R180593</idno>
+            <idno type="EEBO-CITATION">53981550</idno>
+            <idno type="OCLC">ocm 53981550</idno>
+            <idno type="VID">180287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180287)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the great victory obtained by the King of the Abissines, called Prester John, against the Turks. In taking the flourishing city of Habalee, and destroying 10,000 Ottomons [sic]. As also, a coppy of a letter from on board of his Majesties ship the Pearl, (riding then at Lisbon) from a gentleman to his brother in London, giving an account of several remarkable passages and rencounters against the Sally men.</title>
+                  <author>Miles, John, fl. 1684.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by John Reid, and are to be sold by James Mein on the South-side of the Cross,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Letter dated and signed at end: From aboard the Pearl, July the 23d. Sent by the Swain friget, by one which was retaken from a Sally man of war. Your affectionate friend, John Miles.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prester John.</term>
+               <term>Naval battles --  Mediterranean Sea --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:180287:1"/>
+            <head>
+               <hi>A TRUE RELATION Of the Great VICTORY</hi> Obtained by the King of the <hi>Abiſſines,</hi> called, <hi>PRESTER JOHN AGAINST THE <hi>TURKS.</hi> In taking the Flouriſhing City of</hi> Habalee, <hi>and deſtroying 100000.</hi> Ottomons. <hi>AS ALSO,</hi> A Coppy of a Letter from on Board of His MAJESTIES Ship the <hi>Pearl,</hi> (riding then at <hi>Lisbon</hi>) from a Gentleman to his Brother in <hi>London,</hi> giving an Account of ſeveral remarkable paſſages and Rencounters againſt the <hi>Sally Men.</hi>
+            </head>
+            <p>FRom <hi>Venice</hi> they Write that they had a certain Relation by a <hi>Turkiſh Ship</hi> from <hi>Alexandria,</hi> That <hi>Preſter John,</hi> King of <hi>Abiſſines,</hi> (having been infor<g ref="char:EOLhyphen"/>med of the <hi>Chriſtian</hi> Succeſs over the <hi>Turks:</hi>) had forthwith ſent his Ne<g ref="char:EOLhyphen"/>phew <hi>Prince Joſephat,</hi> and his Son <hi>Steven Tingel,</hi> with an Army of 400000. Men to Beſiege the Great and Famous City <hi>Habalee:</hi> (in which were 4000 <hi>Canons</hi> and 18000 Men, the <hi>Turkiſh</hi> Governor, having refuſed the Surrendring thereof, with an anſwer he would Defend it to the Laſt) Prince <hi>Joſephat,</hi> made himſelf Maſter thereof in the ſpace of 14 Hours, and put all the Garriſon to the Sword, and found therein 100000 Millons in ready Coin, beſides more precious Things of a double Value: (all the Merchants of <hi>Aſia, Perſia</hi> and <hi>Egypt,</hi> having their Stor-houſes there.) After which Victory, the Cities <hi>Leobin,</hi> two days Journey from <hi>Habalee</hi> and <hi>Dama-Gazon.</hi> Surrendred themſelves: and the Victorious Prince with his Army proceeded. and Burnt 3000 Villages: which gave ſuch a Dread to all <hi>Egypt,</hi> that 600000 of the Inhabitants Fled to the City <hi>Grand-Cario,</hi> Diſtant 6 Dayes Journey from <hi>Corbint:</hi> which Prince <hi>Joſephat</hi> has ſince Beſieged. And we expect by the firſt to have Advice of its being Surrendred or taken. <hi>Preſter John,</hi> hath in the mean time ſent to acquaint the King of <hi>Perſia</hi> with his happy Victory: (having ſince the firſt Siege before <hi>Habalee,</hi> Deſtroyed 100000 <hi>Otto<g ref="char:EOLhyphen"/>mons.</hi>) And deſires him alſo to Advance his Arms againſt the <hi>Turks:</hi> to which there is no doubt but the <hi>Zophi</hi> will agree.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:180287:2"/>
+                  <head>The LETTER.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>AFter my Departure from <hi>London,</hi> I have with a fervent deſire Expected an Anſwer, upon ſo many Letters as I have ſent you by all Op<g ref="char:EOLhyphen"/>portunities, but conſidering the uncertainty of the <hi>Poſt,</hi> reciprocal<g ref="char:EOLhyphen"/>ly I aſcribe my Unhappineſs thereunto, but cannot miſs this Opportu<g ref="char:EOLhyphen"/>nity once more: (if you will be pleaſed to forgive the reiteration of my troubleſome Lines) to wiſh your Health and Proſperity, and acquaint you with mine, which Bleſſed be God continues good, and withal give you a brief Account of thoſe Paſſages I have hitherto met with in my Voyage, <hi>viz.</hi>
+                  </p>
+                  <p>After the Domoliſhing of <hi>Tangier,</hi> in which I was no leſs Active than in hazard (of which Mr <hi>Faulkner</hi> has given you an Account) to have loſt my Life, tho Eſcaping with a dangerous wound and Bruiſe by Blowing up of the <hi>Caſtle:</hi> in which mutual Danger two Gentlemen belonging to our Ship, were Kill'd: our Ship, with four others were left behind; with Order to Cruize thoſe Seas, and Attaque ſuch <hi>Sally men</hi> of War, with which we ſhould meet or have advice of, accordingly we put to Sea the 4th of <hi>June,</hi> ſetting forth for <hi>Lisbon,</hi> the place of our Rendevouze, and the ſame Day came in ſight of a Sail which we gave Chaſe putting out <hi>French</hi> Colours, and coming up to her within a League, made her our Enemy; whereupon ſhe turned and ſteared her Courſe before the Wind, which in perſuite of her, we did alſo, and the next Day came within Shot of her, and then knew her to be the Admiral of <hi>Sally:</hi> we Fired at her and ſpoiled her Top-Gallon Sheets, but ſhe would not anſwer us, but uſeing all means to eſcape by the darkneſs of the Night got from us, but the <hi>Sapheir</hi> Frigot finding her at Anchor at the Bar of <hi>Sally</hi> (where ſhe could not paſs by reaſon of the lowneſs of Water) Sunk her, took the Captain and forty <hi>Moors</hi> out of the Water, beſides 40 Engliſh ſlaves: and afterwards forcing the Captain to tell them where ſhe would find any more of the <hi>Sally</hi> he bid her ſtear
+30 Leagues of <hi>Sally.</hi> where ſhe would find a <hi>Sally man</hi> of War, with a <hi>Dutch</hi> Prize which he had taken: which the <hi>Sapheir</hi> do<g ref="char:EOLhyphen"/>ing according to the Captains Words found, Fought, and took them, and brought them to <hi>Cadize,</hi> and we daily Expect them here. The <hi>Dutchmans</hi> Ship was lad<g ref="char:EOLhyphen"/>en with <hi>Sugar</hi> and <hi>Oyl.</hi> The <hi>Sally Man,</hi> had 18 Guns, and the other 16. Since which we had the Chance to meet with the biggeſt <hi>Sally men</hi> of War on the ninth of <hi>June</hi> in the morning, who at firſt came up towards us, ſuppoſing us to be a Merchant-Man, but finding to the Contrary, turned her Courſe, and by Row<g ref="char:EOLhyphen"/>ing, (it being Calm) outrun us, but a freſh Gale of Wind ariſing, in the morn<g ref="char:EOLhyphen"/>ing following, about two a Clock we came up with him, and about Day-light Fought him for two Hours at a Diſtance, and it proving calm loſt him out of our ſight, and all hopes of taking him: notwithſtanding, which, we fetched him up on the 10th about Mid-night, and for fear of looſing him, came on and fired a Broad-ſide to awaken him, he anſwered us in like manner, and bid us Strike, promiſing good Quarters; but after 7 hours ſharp Fight, we maſtered him, having only on killed, with the Boat-Swain. They had
+150 <hi>Moors,</hi> and 38 <hi>Engliſh</hi> Slaves, 4 <hi>French men,</hi> and 6 <hi>Dutch men</hi> on Board. There were fifty Killed and Wounded. The Captain was a very Stout Man, but Died of his Wound: he was ſo Couragious that we Shot his Main-top and Miſſen-top Maſts and the Main, and Fore-Yard away before he would Strike. And all our Maiſts were diſabled, She had 24 <hi>Guns,</hi> and ſix <hi>Patterreries:</hi> and ſo ſerved us for Break<g ref="char:EOLhyphen"/>faſt, the Morning of the Eleventh of <hi>June.</hi> He confeſſed that 2 or 3 Dayes be<g ref="char:EOLhyphen"/>fore he had taken 3 Prizes and conveyed them to <hi>Sally.</hi> So being loath to trouble you any further, I ſhall conclude with my hearty Wiſhes to proſper you and your Family (to which I deſire my Love to be remembred) and remain till Death.</p>
+                  <closer>
+                     <dateline>From a board the <hi>Pearl,</hi>
+                        <date>July <hi>the</hi> 23d.</date> 
+                        <hi>ſent by the Swain Friget, by one which was retaken from a</hi> Sally man <hi>of War.</hi>
+                     </dateline>
+                     <signed>Your affectionate Friend <hi>John Miles.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-Printed by <hi>John Reid,</hi> and are to be ſold be <hi>James Mein</hi> on the South-ſide of the Croſs, <hi>Anno DOM.</hi> 1684.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
